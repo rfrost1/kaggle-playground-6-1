@@ -47,10 +47,7 @@ nosetests.xml
 coverage.xml
 *.cover
 *.py.cover
-<<<<<<< HEAD
 *.lcov
-=======
->>>>>>> 986f3195f6e87be5757f3b90f518e8463bccb429
 .hypothesis/
 .pytest_cache/
 cover/
@@ -126,22 +123,15 @@ ipython_config.py
 # pixi.lock
 #   Pixi creates a virtual environment in the .pixi directory, just like venv module creates one
 #   in the .venv directory. It is recommended not to include this directory in version control.
-<<<<<<< HEAD
 .pixi/*
 !.pixi/config.toml
-=======
-.pixi
->>>>>>> 986f3195f6e87be5757f3b90f518e8463bccb429
 
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
 __pypackages__/
 
 # Celery stuff
-<<<<<<< HEAD
 celerybeat-schedule*
-=======
 celerybeat-schedule
->>>>>>> 986f3195f6e87be5757f3b90f518e8463bccb429
 celerybeat.pid
 
 # Redis
@@ -229,10 +219,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-<<<<<<< HEAD
 
 # Additional
 data/*
 output/*
-=======
->>>>>>> 986f3195f6e87be5757f3b90f518e8463bccb429
